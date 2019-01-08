@@ -18,8 +18,8 @@
 
 #hard code the source and destination paths if always using the same source and destination path. 
 #Dont forget closing / EX: source_path=/Users/..../xmlSource/
-source_path=/Users/rodrigo/Documents/development/eclipse/XMLParser/final/xmlsource/
-destination_path=/Users/rodrigo/Documents/development/eclipse/XMLParser/final/output/
+source_path=
+destination_path=
 
 jar_file_path=$(pwd)/           #jar file location. change if needed. dont forget closing /
 date_stamp=$(date +%Y-%m-%d)
