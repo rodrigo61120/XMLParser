@@ -1,0 +1,38 @@
+<note>
+	<to>Tove</to>
+	<from>Jani</from>
+	<tiger>
+		<body>Don't forget me this weekend!1</body>
+		<body>Don't forget me this weekend!2</body>	
+		<heading>Reminder1</heading>
+		<body>Don't forget me this weekend!3</body>
+		<bear>
+			<body>Don't forget me this weekend!1</body>
+		</bear>
+	</tiger>
+	<tiger>
+		<heading>Reminder2</heading>
+		<body>Don't forget me this weekend!2</body>
+		<bear>
+			<body>Don't forget me this weekend!2</body>
+		</bear>
+	</tiger>
+</note>
+<book>
+	<to>Tove</to>
+	<from>Jani</from>
+	<heading>Reminder</heading>
+	<body>Don't forget me this weekend!</body>
+</book>
+<book>
+	<to>Tove1</to>
+	<from>Jani2</from>
+	<heading>Reminder2</heading>
+	<body>Don't forget me this weekend!2</body>
+</book>
+<log>
+	<to>Tove</to>
+	<from>Jani</from>
+	<heading>Reminder</heading>
+	<body>Don't forget me this weekend!</body>
+</log>

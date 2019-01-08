@@ -1,0 +1,29 @@
+Root
+	Root/Customers/
+		Root/Customers/Customer/
+			Root/Customers/Customer/CompanyName
+			Root/Customers/Customer/Phone
+			Root/Customers/Customer/ContactName
+			Root/Customers/Customer/ContactTitle
+			Root/Customers/Customer/FullAddress/
+				Root/Customers/Customer/FullAddress/Address
+				Root/Customers/Customer/FullAddress/Region
+				Root/Customers/Customer/FullAddress/PostalCode
+				Root/Customers/Customer/FullAddress/Country
+				Root/Customers/Customer/FullAddress/City
+	Root/Orders/
+		Root/Orders/Order/
+			Root/Orders/Order/RequiredDate
+			Root/Orders/Order/CustomerID
+			Root/Orders/Order/EmployeeID
+			Root/Orders/Order/OrderDate
+			Root/Orders/Order/ShipInfo/
+				Root/Orders/Order/ShipInfo/ShipName
+				Root/Orders/Order/ShipInfo/ShipCity
+				Root/Orders/Order/ShipInfo/ShipAddress
+				Root/Orders/Order/ShipInfo/ShipVia
+				Root/Orders/Order/ShipInfo/ShipPostalCode
+				Root/Orders/Order/ShipInfo/ShipCountry
+				Root/Orders/Order/ShipInfo/Freight
+				Root/Orders/Order/ShipInfo/ShipRegion
+

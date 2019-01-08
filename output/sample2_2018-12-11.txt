@@ -1,0 +1,8 @@
+catalog
+	catalog/product/
+		catalog/product/catalog_item/
+			catalog/product/catalog_item/price
+			catalog/product/catalog_item/item_number
+			catalog/product/catalog_item/size/
+				catalog/product/catalog_item/size/color_swatch
+
